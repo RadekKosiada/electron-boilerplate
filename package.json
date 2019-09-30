@@ -1,0 +1,14 @@
+{
+  "name": "electron-pure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Radek",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^6.0.10"
+  }
+}
